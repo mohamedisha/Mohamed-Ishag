@@ -1,17 +1,100 @@
-# 💫 About Me:
-I am a student interested in learning and developing websites <br>I and a software developer C++
+<div align="center" width="100%">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Perfect Profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<hr>
 
-### ✍️ Random Dev Quote
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Perfect Profile&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👋 Hello! I'm **Mohamed Ishag Ahmed** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A student passionate about programming 🚀. Currently learning **C++**, and problem-solving using **Visual Studio** to build my skills 💻.  
+Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
 ---
+
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</div>
+
+---
+
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/mohamedisha/Project-1-Stone-Paper-Scissor.git)
+- [Project 2 ( Math Game )](https://github.com/mohamedisha/Project-2-Math-Game.git)
+
+
+---
+
+### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- 7 as it should be (concepts) (Programming Advices)
+- Completed 6+ courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 200+ programming problems
+
+---
+
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- **Abu-Hadhoud Roadmap**
+- Mastering **C++**  💡  
+- Algorithms and Problem Solving  
+- Practicing with small projects 🛠️  
+- Improving my professional profile on **GitHub** and **LinkedIn**
+
+---
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
+
+---
+
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight" />
+      </td> 
+      <td> 
+        <img src="https://streak-stats.demolab.com/?user=AhmedYaser-Mt&theme=tokyonight" />
+      </td> 
+    </tr> 
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight" />
+</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+</p>
+
+---
+
+### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ishag-8366a4355">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedishag2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201014842264">
+    <img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/qr/36EE4DXNJ46SH1)" />
+  </a>
+</div>
+
+---
+
+```cpp
+
