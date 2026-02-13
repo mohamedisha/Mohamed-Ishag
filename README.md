@@ -49,37 +49,6 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ---
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight" />
-      </td> 
-      <td> 
-        <img src="https://streak-stats.demolab.com/?user=AhmedYaser-Mt&theme=tokyonight" />
-      </td> 
-    </tr> 
-  </table>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight" />
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
----
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
