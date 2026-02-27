@@ -29,7 +29,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 7 as it should be (concepts) (Programming Advices)
+- 8 as it should be (concepts) (Programming Advices)
 - Completed 6+ courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 200+ programming problems
 
