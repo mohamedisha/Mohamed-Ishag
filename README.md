@@ -62,7 +62,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="https://t.me/محمد اسحاق">
+  <a href="https://t.me/mohamedishag200">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
