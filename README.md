@@ -58,7 +58,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
   <a href="mailto:mohamedishag2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/qr/36EE4DXNJ46SH1">
+  <a href="https://wa.me/201557316740">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/mohamedishag200">
